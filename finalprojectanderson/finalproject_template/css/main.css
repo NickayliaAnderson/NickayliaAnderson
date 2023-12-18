@@ -1,0 +1,57 @@
+background-image{
+max-width:100%;
+}
+
+.head{
+max-width: 70rem;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.img src{
+margin-left: 10px;
+margin-right: 10px;
+max-width: 30rem;
+}
+
+body {
+  margin: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+article {
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right:1px;
+  width: 90%;
+}
+
+h1 {
+  font-size: 46px;
+  text-align: center;
+}
+
+h2{
+text-align: center;
+size: 500rem;
+
+}
+.story_image {
+ width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
